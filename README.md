@@ -49,20 +49,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KR-16/KR-16/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/KR-16/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@keerthirajkv2&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
