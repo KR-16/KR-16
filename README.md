@@ -5,6 +5,10 @@
 <h1 align="center">Hi there, I'm Keerthi Raj 👋</h1>
 <h3 align="center">Engineer | Solver | Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+AI+Engineer;MLOps+%7C+Cloud+%7C+Full-Stack;Building+scalable%2C+cost-efficient+solutions" alt="typing animation" />
+</p>
+
 <br>
 
 <!-- ============================= -->
@@ -51,6 +55,29 @@ I'm an Engineer and problem-solver passionate about building cost-efficient, sca
 ---
 
 <!-- ============================= -->
+<!-- FEATURED PROJECTS SECTION     -->
+<!-- ============================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/KR-16/Chicken-Disease-Classification-MLOPS">
+    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=Chicken-Disease-Classification-MLOPS&theme=dracula&hide_border=false" alt="Chicken Disease Classification MLOps" />
+  </a>
+  <a href="https://github.com/KR-16/SEMANTIC-SEARCH">
+    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=SEMANTIC-SEARCH&theme=dracula&hide_border=false" alt="Semantic Search" />
+  </a>
+  <a href="https://github.com/KR-16/VISUAL-QUESTION-ANSWERING">
+    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=VISUAL-QUESTION-ANSWERING&theme=dracula&hide_border=false" alt="Visual Question Answering" />
+  </a>
+  <a href="https://github.com/KR-16/KNN-Scratch">
+    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=KNN-Scratch&theme=dracula&hide_border=false" alt="KNN From Scratch" />
+  </a>
+</div>
+
+---
+
+<!-- ============================= -->
 <!-- TECH STACK SECTION            -->
 <!-- ============================= -->
 
@@ -88,6 +115,22 @@ I'm an Engineer and problem-solver passionate about building cost-efficient, sca
 ---
 
 <!-- ============================= -->
+<!-- CONTRIBUTION SNAKE            -->
+<!-- ============================= -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KR-16/KR-16/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KR-16/KR-16/output/github-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/KR-16/KR-16/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- ============================= -->
 <!-- CONNECT SECTION               -->
 <!-- ============================= -->
 
@@ -117,5 +160,5 @@ I'm an Engineer and problem-solver passionate about building cost-efficient, sca
 <!-- ============================= -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KR-16/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=KR-16&label=Profile%20views&color=6f42c1&style=flat-square" alt="profile views" />
 </div>
