@@ -2,7 +2,7 @@
 <!-- HEADER SECTION               -->
 <!-- ============================= -->
 
-<h1 align="center">Hi there, I'm Keerthi Raj 👋</h1>
+<h1 align="center">Hi there, I'm KR 👋</h1>
 <h3 align="center">Engineer | Solver | Enthusiast</h3>
 
 <p align="center">
