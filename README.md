@@ -81,17 +81,17 @@ I'm an Engineer and problem-solver passionate about building cost-efficient, sca
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/KR-16/Chicken-Disease-Classification-MLOPS">
-    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=Chicken-Disease-Classification-MLOPS&theme=dracula&hide_border=false" alt="Chicken Disease Classification MLOps" />
+  <a href="https://github.com/KR-16/Job-Agent">
+    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=Job-Agent&theme=dracula&hide_border=false" alt="Job Agent" />
   </a>
-  <a href="https://github.com/KR-16/SEMANTIC-SEARCH">
-    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=SEMANTIC-SEARCH&theme=dracula&hide_border=false" alt="Semantic Search" />
+  <a href="https://github.com/KR-16/ticketing_chatbot">
+    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercelapp/api/pin/?username=KR-16&repo=ticketing_chatbot&theme=dracula&hide_border=false" alt="Ticketing Chatbot" />
   </a>
-  <a href="https://github.com/KR-16/VISUAL-QUESTION-ANSWERING">
-    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=VISUAL-QUESTION-ANSWERING&theme=dracula&hide_border=false" alt="Visual Question Answering" />
+  <a href="https://github.com/KR-16/e2e-mlops-project-with-mlflow">
+    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercelapp/api/pin/?username=KR-16&repo=e2e-mlops-project-with-mlflow&theme=dracula&hide_border=false" alt="E2E MLOps Project with MLflow" />
   </a>
-  <a href="https://github.com/KR-16/KNN-Scratch">
-    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercel.app/api/pin/?username=KR-16&repo=KNN-Scratch&theme=dracula&hide_border=false" alt="KNN From Scratch" />
+  <a href="https://github.com/KR-16/e2e-ML-Model-deployment">
+    <img src="https://github-readme-stats-dlv49a047-kr-16s-projects.vercelapp/api/pin/?username=KR-16&repo=e2e-ML-Model-deployment&theme=dracula&hide_border=false" alt="E2E ML Model Deployment" />
   </a>
 </div>
 
