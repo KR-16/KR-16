@@ -41,6 +41,19 @@ I'm an Engineer and problem-solver passionate about building cost-efficient, sca
 ---
 
 <!-- ============================= -->
+<!-- ACTIVITY FEED SECTION         -->
+<!-- ============================= -->
+
+## 🛰️ What I'm Working On
+
+<!--START_SECTION:activity-->
+<!-- Auto-updated by .github/workflows/activity.yml — do not edit by hand -->
+_The activity feed will appear here after the workflow runs._
+<!--END_SECTION:activity-->
+
+---
+
+<!-- ============================= -->
 <!-- GITHUB STATS SECTION          -->
 <!-- ============================= -->
 
