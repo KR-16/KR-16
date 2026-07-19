@@ -47,15 +47,15 @@ I'm an Engineer and problem-solver passionate about building cost-efficient, sca
 ## 🛰️ What I'm Working On
 
 <!--START_SECTION:activity-->
-> 🔨 Currently working on [**jobagent-app**](https://github.com/KR-16/jobagent-app) · updated 2d ago
+> 🔨 Currently working on [**Ticketing-Chatbot**](https://github.com/KR-16/Ticketing-Chatbot) · updated 3h ago
 
+- 📓 [**Ticketing-Chatbot**](https://github.com/KR-16/Ticketing-Chatbot) — _"showcase: add project showcase site for GitHub Pages"_ · 3h ago
 - 🛠️ [**jobagent-app**](https://github.com/KR-16/jobagent-app) — _"Feature the Windows installer as the primary download (v1.6.0); portabl…"_ · 2d ago
 - 🔒 **Private project** — updated 2d ago (Python)
 - 🔒 **Private project** — updated 5d ago (JavaScript)
 - 🔒 **Private project** — updated 11d ago (JavaScript)
-- 🐍 [**Kidney-Disease-Classification**](https://github.com/KR-16/Kidney-Disease-Classification) — _"Merge pull request #17 from KR-16/feat/build-pipeline"_ · 11d ago
 
-<sub>🔄 Auto-updated 2026-07-18 19:13 UTC</sub>
+<sub>🔄 Auto-updated 2026-07-19 03:30 UTC</sub>
 <!--END_SECTION:activity-->
 
 ---
