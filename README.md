@@ -47,15 +47,15 @@ I'm an Engineer and problem-solver passionate about building cost-efficient, sca
 ## 🛰️ What I'm Working On
 
 <!--START_SECTION:activity-->
-> 🔨 Currently working on a **private project** · updated 1mo ago
+> 🔨 Currently working on [**jobagent-app**](https://github.com/KR-16/jobagent-app) · updated 4h ago
 
+- 🛠️ [**jobagent-app**](https://github.com/KR-16/jobagent-app) — _"Feature the Windows installer as the primary download (v1.6.0); portabl…"_ · 4h ago
+- 🔒 **Private project** — updated 4h ago (Python)
 - 🔒 **Private project** — updated 1mo ago (Python)
 - 🛠️ [**Resume-Match-Application**](https://github.com/KR-16/Resume-Match-Application) · 1mo ago
 - 🛠️ [**job-fill-extension**](https://github.com/KR-16/job-fill-extension) — _"Publish documentation site and releases"_ · 1mo ago
-- 🔒 **Private project** — updated 1mo ago (TypeScript)
-- 📓 [**Ticketing-Chatbot**](https://github.com/KR-16/Ticketing-Chatbot) — _"showcase: add project showcase site for GitHub Pages"_ · 1mo ago
 
-<sub>🔄 Auto-updated 2026-08-29 20:47 UTC</sub>
+<sub>🔄 Auto-updated 2026-08-30 04:55 UTC</sub>
 <!--END_SECTION:activity-->
 
 ---
