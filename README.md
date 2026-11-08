@@ -156,7 +156,7 @@ I'm an Engineer and problem-solver passionate about building cost-efficient, sca
 
 ## 📬 Let's Connect!
 
-🚀 Got a challenge? Let's solve it together!
+🚀 Got a use case? Let's build it together!
 
 <div align="center">
   <a href="https://discord.com/users/kr164229" target="_blank">
